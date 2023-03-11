@@ -1,0 +1,20 @@
+{
+  "name": "javascript_hackernews",
+  "version": "1.0.0",
+  "description": "김민태 강사님의 강의를 보고 실습한 Javascript_Hacker News Client App 프로젝트입니다.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jisooround/Javascript_HackerNews.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jisooround/Javascript_HackerNews/issues"
+  },
+  "homepage": "https://github.com/jisooround/Javascript_HackerNews#readme"
+}
