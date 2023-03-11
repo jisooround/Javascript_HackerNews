@@ -12,4 +12,14 @@ Hacker News RESTful API<br />
 
 Javascript, HTML5, Tailwind <br />
 
-### 💟 기억에 남은 코드 로직
+### 💟 새롭게 알게된 내용
+
+#### ajax request & response
+
+`ajax.open("GET", "URL", 동기처리여부(boolean))`으로 요청하고 `ajax.send()`, `JSON.parse(ajax.response)`로 응답
+
+#### hash change 이벤트리스너 동작시키기
+
+해시값이 클릭때마다 변한다면 `location.hash` 로 현재 해시값을 가져올 수 있다.<br/>
+해시 기호를 떼고 싶다면 `substring()`을 사용하면 된다.
+`location.hash.substring(1)`
